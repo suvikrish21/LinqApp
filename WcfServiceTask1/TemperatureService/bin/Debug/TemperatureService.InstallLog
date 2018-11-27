@@ -1,0 +1,88 @@
+﻿Installing assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Rolling back assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Rolling back assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Installing service Temperature Service...
+Creating EventLog source Temperature Service in log Application...
+Rolling back assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Restoring event log to previous state for source Temperature Service.
+Installing assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Installing service Temperature Service...
+Creating EventLog source Temperature Service in log Application...
+Rolling back assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Restoring event log to previous state for source Temperature Service.
+Installing assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Rolling back assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Installing assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Installing service Temperature Service...
+Creating EventLog source Temperature Service in log Application...
+Rolling back assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Restoring event log to previous state for source Temperature Service.
+Installing assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+Installing service Temperature Service...
+Service Temperature Service has been successfully installed.
+Creating EventLog source Temperature Service in log Application...
+Committing assembly 'C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.InstallLog
+   assemblypath = C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe

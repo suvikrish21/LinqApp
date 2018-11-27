@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\bin\JobService.dll.config
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\bin\JobService.dll
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\bin\JobService.pdb
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\obj\Release\JobService.dll
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\obj\Release\JobService.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\bin\WcfServiceTask1.dll.config
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\bin\WcfServiceTask1.dll
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\bin\WcfServiceTask1.pdb
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\obj\Debug\WcfServiceTask1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\obj\Debug\WcfServiceTask1.dll
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\WcfServiceTask1\obj\Debug\WcfServiceTask1.pdb

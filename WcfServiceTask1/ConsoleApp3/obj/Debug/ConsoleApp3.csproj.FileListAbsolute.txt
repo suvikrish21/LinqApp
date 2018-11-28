@@ -4,3 +4,9 @@ C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\ConsoleApp3\bin\Deb
 C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

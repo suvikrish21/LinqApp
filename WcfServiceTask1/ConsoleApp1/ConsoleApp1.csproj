@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\WcfServiceLibTask1\WcfServiceLibTask1\WcfServiceLibTask1.csproj">
+    <ProjectReference Include="..\WcfServiceLibTask1\WcfServiceLibTask1\WcfServiceLibTask1.csproj">
       <Project>{2247c6ce-3222-4de6-a9fd-df543b91498e}</Project>
       <Name>WcfServiceLibTask1</Name>
     </ProjectReference>

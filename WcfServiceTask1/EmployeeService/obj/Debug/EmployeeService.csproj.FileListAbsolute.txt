@@ -8,3 +8,13 @@ C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\EmployeeService\bin
 C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\EmployeeService\bin\Debug\EntityFramework.xml
 C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\EmployeeService\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\EmployeeService\bin\Debug\EmployeeService.dll.config
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\EmployeeService\bin\Debug\EmployeeService.dll
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\EmployeeService\bin\Debug\EmployeeService.pdb
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\EmployeeService\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\EmployeeService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\EmployeeService\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\EmployeeService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\EmployeeService\obj\Debug\EmployeeService.pdb

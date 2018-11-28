@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Job Home";
+}
+
+<h2>Job Home</h2>
+
+@*<p>
+    @Html.ActionLink("List Job", "List")
+</p>*@
+    @using (@Html.BeginForm("Index", "Job", FormMethod.Get))
+    {
+
+        <div>
+            
+            <input type="text" name="role" placeholder="Search Job by Roles"
+                   value="" />
+
+            <input type="submit" name="btn" 
+                   value="Search" />
+            <input type="submit" name="btn" 
+                   value="All " />
+
+        </div>
+
+         <div>
+             <table class="table">
+                 <tr>
+                     <th> Job Id </th>
+                      <th>  Area / Field  </th>
+                      <th> Role </th>
+                 </tr>
+
+                 @foreach (var item in Model)
+                 {
+                     <tr>
+                         <td>
+                             @item.Id
+                         </td>
+
+                         <td>
+                             @item.Name
+                         </td>
+
+                         <td>
+                             @item.Role
+                         </td>
+
+                         <td></td>
+                     </tr>
+                 }
+
+             </table>
+         </div>
+
+    }
+
+    
+

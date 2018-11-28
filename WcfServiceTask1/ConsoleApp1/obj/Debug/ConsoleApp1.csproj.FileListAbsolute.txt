@@ -7,3 +7,12 @@ C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\ConsoleApp1\obj\Deb
 C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\ConsoleApp1\bin\Debug\WcfServiceLibTask1.dll
 C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\ConsoleApp1\bin\Debug\WcfServiceLibTask1.pdb
 C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\ConsoleApp1\bin\Debug\WcfServiceLibTask1.dll.config
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp1\bin\Debug\WcfServiceLibTask1.dll
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp1\bin\Debug\WcfServiceLibTask1.pdb
+C:\Users\Admin\Desktop\.NET projects\LinqApp-master\WcfServiceTask1\ConsoleApp1\bin\Debug\WcfServiceLibTask1.dll.config

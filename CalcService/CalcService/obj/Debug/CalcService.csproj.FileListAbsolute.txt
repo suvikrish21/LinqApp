@@ -1,6 +1,0 @@
-C:\Users\Admin\Desktop\.NET projects\WCFApp1\CalcService\CalcService\bin\CalcService.dll.config
-C:\Users\Admin\Desktop\.NET projects\WCFApp1\CalcService\CalcService\bin\CalcService.dll
-C:\Users\Admin\Desktop\.NET projects\WCFApp1\CalcService\CalcService\bin\CalcService.pdb
-C:\Users\Admin\Desktop\.NET projects\WCFApp1\CalcService\CalcService\obj\Debug\CalcService.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Desktop\.NET projects\WCFApp1\CalcService\CalcService\obj\Debug\CalcService.dll
-C:\Users\Admin\Desktop\.NET projects\WCFApp1\CalcService\CalcService\obj\Debug\CalcService.pdb

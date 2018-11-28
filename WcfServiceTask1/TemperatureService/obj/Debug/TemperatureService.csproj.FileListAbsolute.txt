@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe.config
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.exe
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\bin\Debug\TemperatureService.pdb
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\obj\Debug\TemperatureService.exe
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\obj\Debug\TemperatureService.pdb
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\obj\Debug\TemperatureService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\obj\Debug\TemperatureService.ProjectInstaller.resources
+C:\Users\Admin\Desktop\.NET projects\WCFApp1\WcfServiceTask1\TemperatureService\obj\Debug\TemperatureService.csproj.GenerateResource.Cache
